@@ -28,7 +28,7 @@ env:
   REGISTRY: crpi-1qcaf3xdapsfuhwi.cn-hangzhou.personal.cr.aliyuncs.com
   NAMESPACE: moyuchenxin
   IMAGE: searxng
-  TAG: ${{ github.sha }}
+  TAG: latest
 
 permissions:
   contents: read
